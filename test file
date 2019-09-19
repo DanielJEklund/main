@@ -1,1 +1,4 @@
 //hello world
+<script>
+ consol.log("Test file for ADO");
+</script>
